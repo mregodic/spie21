@@ -1,6 +1,6 @@
 # 3D Dense-U-Net Network for Titanium Spherical Fiducial Segmentation
 
-This repository provides the code and materials to described in the paper "Feasibility of automated fiducial registration with a nasopharyngeal stent for electromagnetic navigation" In SPIE Proc. 2021.
+This repository provides the code and materials described in the paper "Feasibility of automated fiducial registration with a nasopharyngeal stent for electromagnetic navigation" In SPIE Proc. 2021.
 
 TensorFlow and Keras as backend deep learning libraries were used.
 
