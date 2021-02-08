@@ -1,4 +1,4 @@
-# 3D Dense-U-Net Network for Titanium Spherical Fiducial Segmentation
+# 3D U-Net Network for Titanium Spherical Fiducial Segmentation
 
 This repository provides the code and materials described in the paper "Feasibility of automated fiducial registration with a nasopharyngeal stent for electromagnetic navigation" In SPIE Proc. 2021.
 
